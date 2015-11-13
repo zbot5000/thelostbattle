@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" source="../tilesets/Floors.tsx"/>
+ <tileset firstgid="171" source="../tilesets/Gateways.tsx"/>
+ <tileset firstgid="199" source="../tilesets/Walls.tsx"/>
+ <tileset firstgid="393" source="../tilesets/Water.tsx"/>
+ <layer name="Floor" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJytlFFuxDAIRLn/KSqtbez0NLlBj9KNxGhfp9tElfKBEmMYYADvEbHfLNtT5lOy/g/deqPL0jXojvOor+NN2PXyy/ruOKfhtcIU3ij/YfkNxKFdq3vmsuIerlbhd9OtqmNHfNX5KJFtv8hHvIiDDXU4XrN6u8Wmfxp+wkfY4tX7kcCbZuN9SOSjegdipfF3JcR2UR6cl7zwObv7KwY5Fd+cRc75RH3vcnGO1euOeAO2C3faDfb3OH9GfCyLyR52/G/xe8/P5lH3CXzG4j60eM2M5ff1n56fyQZexLn2njsjXvk+qHf+vjzi58zKjzvSIIoxwLfvB/upHNkT1TCB57t/t3wDQ1clZA==
+  </data>
+ </layer>
+ <layer name="Walls" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApIBwAGQAAB
+  </data>
+ </layer>
+ <layer name="Objects" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApIBwAGQAAB
+  </data>
+ </layer>
+ <layer name="Characters" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApIBwAGQAAB
+  </data>
+ </layer>
+</map>
